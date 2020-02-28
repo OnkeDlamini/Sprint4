@@ -1,0 +1,25 @@
+_id,Type,Products,Prices,Quantity
+ObjectId("5e57761a5c1cdb3fd40709eb"),Chips,Doritos,15,20
+ObjectId("5e57761a5c1cdb3fd40709ec"),Chips,Lays,12,15
+ObjectId("5e57761a5c1cdb3fd40709ed"),Chips,NikNaks,5,30
+ObjectId("5e57761a5c1cdb3fd40709ee"),Chips,Simba,18,18
+ObjectId("5e57761a5c1cdb3fd40709f0"),Cooldrink,Fanta,11,10
+ObjectId("5e57761a5c1cdb3fd40709f1"),Cooldrink,Sprite,14,10
+ObjectId("5e57761a5c1cdb3fd40709f2"),Cooldrink,Jive,10,20
+ObjectId("5e57761a5c1cdb3fd40709f3"),Cooldrink,Score,10,15
+ObjectId("5e57761a5c1cdb3fd40709f5"),Chocolate, Ps,8,20
+ObjectId("5e57761a5c1cdb3fd40709f6"),Chocolate,KitKat,10,15
+ObjectId("5e57761a5c1cdb3fd40709f7"),Chocolate,Bar-one,13,5
+ObjectId("5e57761a5c1cdb3fd40709f8"),Chocolate,Tex,7,25
+ObjectId("5e57761a5c1cdb3fd40709ff"),Fruit,Guava,10,20
+ObjectId("5e57761a5c1cdb3fd4070a00"),Fruit,Peach,12,15
+ObjectId("5e57761a5c1cdb3fd4070a01"),Fruit,Pear,8,30
+ObjectId("5e57761a5c1cdb3fd4070a02"),Fruit,Banana,15,10
+ObjectId("5e57761a5c1cdb3fd4070a04"),Cupcakes,Vanilla,20,20
+ObjectId("5e57761a5c1cdb3fd4070a05"),Cupcakes,Chocmint,17,20
+ObjectId("5e57761a5c1cdb3fd4070a06"),Cupcakes,Browny,22,15
+ObjectId("5e57761a5c1cdb3fd4070a07"),Cupcakes,Chocolate,20,10
+ObjectId("5e57761a5c1cdb3fd4070a09"),Veggies,Potatoes,25,10
+ObjectId("5e57761a5c1cdb3fd4070a0a"),Veggies,Spinach,15,10
+ObjectId("5e57761a5c1cdb3fd4070a0b"),Veggies,Onion,10,10
+ObjectId("5e57761a5c1cdb3fd4070a0c"),Veggies,Butternut,12,10

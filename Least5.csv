@@ -1,0 +1,6 @@
+_id,Type,Products,Prices,Quantity
+ObjectId("5e57761a5c1cdb3fd40709fa"),Pies,Chicken,15,1
+ObjectId("5e57761a5c1cdb3fd40709fb"),Pies,Burger,20,2
+ObjectId("5e57761a5c1cdb3fd40709fc"),Pies,steak,18,3
+ObjectId("5e57761a5c1cdb3fd40709fd"),Pies,pepper,15,4
+ObjectId("5e57761a5c1cdb3fd40709f7"),Chocolates,Bar-one,13,5
